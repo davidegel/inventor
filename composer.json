@@ -1,0 +1,14 @@
+{
+    "name": "dragon/fire",
+    "description": "pacchetto di esempio",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dragon\\":"src/Controller",
+            "Dragon\\Model\\":"src/Model"
+        }
+    }
+}
