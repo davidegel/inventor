@@ -5,8 +5,8 @@
     "keywords": ["inv","inventoring"],
     "homepage": "https://github.com/davidegel/inventor",
     "license": "MIT",
-    "minimum-stability": "dev",
-    "prefer-stable": true,
+    "minimum-stability":"dev",
+    "prefer-stable":true,
     "authors": [
         {
             "name": "Davide jesd",
