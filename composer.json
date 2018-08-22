@@ -1,9 +1,19 @@
 {
     "name": "dragon/fire",
-    "description": "pacchetto di esempio",
+    "type": "library",
+    "description": "home prova",
+    "keywords": ["inv","inventoring"],
+    "homepage": "https://github.com/davidegel/inventor",
     "license": "MIT",
     "minimum-stability": "dev",
     "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Davide jesd",
+            "email": "rin.inder@hotmail.it",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": ">=7.0"
     },
