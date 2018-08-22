@@ -5,7 +5,7 @@
     "keywords": ["inv","inventoring"],
     "homepage": "https://github.com/davidegel/inventor",
     "license": "MIT",
-    "minimum-stability":"dev",
+    "minimum-stability":"stable",
     "prefer-stable":true,
     "authors": [
         {
